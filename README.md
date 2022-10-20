@@ -1,2 +1,2 @@
 # education
-тестовый для пробы
+тестовый для обучения Practical Testing ISTQB 
